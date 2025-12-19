@@ -50,7 +50,8 @@
               "RelativeToolTip": "S6G2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:51:36.971Z"
+              "WhenOpened": "2025-12-18T15:51:36.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,10 +70,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emama\\OneDrive\\Desktop\\OOD(IT7006)\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs",
               "RelativeDocumentMoniker": "S6G2\\Form1.cs",
-              "ToolTip": "C:\\Users\\emama\\OneDrive\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\emama\\OneDrive\\Desktop\\OOD(IT7006)\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs [Design]",
+              "RelativeToolTip": "S6G2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:31:11.474Z"
+              "WhenOpened": "2025-12-18T13:31:11.474Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
