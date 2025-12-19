@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D5DB58C3-3BFF-475A-A106-52E7EC7E016E}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DB58C3-3BFF-475A-A106-52E7EC7E016E}|S6G2\\S6G2.csproj|c:\\users\\emama\\onedrive\\desktop\\ood(it7006)\\smart-course-advising-information-system\\s6g2\\s6g2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5DB58C3-3BFF-475A-A106-52E7EC7E016E}|S6G2\\S6G2.csproj|C:\\Users\\emama\\OneDrive\\Desktop\\OOD(IT7006)\\Smart-Course-Advising-Information-System\\S6G2\\s6g2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DB58C3-3BFF-475A-A106-52E7EC7E016E}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,7 +35,7 @@
               "RelativeDocumentMoniker": "S6G2\\App.config",
               "ToolTip": "C:\\Users\\emama\\OneDrive\\Desktop\\OOD(IT7006)\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\App.config",
               "RelativeToolTip": "S6G2\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-12-19T16:00:13.965Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "RelativeToolTip": "S6G2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:51:36.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T15:51:36.971Z"
             },
             {
               "$type": "Document",
