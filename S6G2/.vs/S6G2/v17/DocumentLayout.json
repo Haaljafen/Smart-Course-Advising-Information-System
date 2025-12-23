@@ -1,10 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\202301136\\Documents\\repos\\S6G2\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\202301136\\documents\\repos\\s6g2\\s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\hp\\desktop\\smart-course-advising-information-system\\s6g2\\s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\hp\\desktop\\smart-course-advising-information-system\\s6g2\\s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HP_DESKTOP_SMART_COURSE_ADVISING_INFORMATION_SYSTEM_S6G2_S6G2_SCIAS_DB.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,18 +26,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\202301136\\Documents\\repos\\S6G2\\S6G2\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs",
               "RelativeDocumentMoniker": "S6G2\\Form1.cs",
-              "ToolTip": "C:\\Users\\202301136\\Documents\\repos\\S6G2\\S6G2\\Form1.cs [Design]",
-              "RelativeToolTip": "S6G2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs*",
+              "RelativeToolTip": "S6G2\\Form1.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:57:19.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HP_DESKTOP_SMART_COURSE_ADVISING_INFORMATION_SYSTEM_S6G2_S6G2_SCIAS_DB.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-23T22:54:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs",
+              "RelativeDocumentMoniker": "S6G2\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs [Design]*",
+              "RelativeToolTip": "S6G2\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T13:03:16.837Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
