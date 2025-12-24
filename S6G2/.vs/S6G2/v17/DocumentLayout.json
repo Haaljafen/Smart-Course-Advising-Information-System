@@ -1,17 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\",
+  "WorkspaceRootPath": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\hp\\desktop\\smart-course-advising-information-system\\s6g2\\s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\hp\\desktop\\smart-course-advising-information-system\\s6g2\\s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\frmstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\frmstudentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\frmstudentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HP_DESKTOP_SMART_COURSE_ADVISING_INFORMATION_SYSTEM_S6G2_S6G2_SCIAS_DB.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|c:\\users\\gaming\\desktop\\hajaroodfinal\\smart-course-advising-information-system\\s6g2\\s6g2\\studentsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F98358-41E2-4C52-B1D0-F111C6C1E95F}|S6G2\\S6G2.csproj|solutionrelative:s6g2\\studentsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,42 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs",
-              "RelativeDocumentMoniker": "S6G2\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs*",
-              "RelativeToolTip": "S6G2\\Form1.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Db.cs",
+              "RelativeDocumentMoniker": "S6G2\\Db.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Db.cs",
+              "RelativeToolTip": "S6G2\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T22:57:19.832Z",
+              "WhenOpened": "2025-12-24T17:02:09.027Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HP_DESKTOP_SMART_COURSE_ADVISING_INFORMATION_SYSTEM_S6G2_S6G2_SCIAS_DB.MDF/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-23T22:54:11.201Z",
+              "Title": "frmStudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\frmStudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "S6G2\\frmStudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\frmStudentDashboard.Designer.cs",
+              "RelativeToolTip": "S6G2\\frmStudentDashboard.Designer.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAewHIBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:28:14.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs",
-              "RelativeDocumentMoniker": "S6G2\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs [Design]*",
-              "RelativeToolTip": "S6G2\\Form1.cs [Design]*",
+              "Title": "frmStudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\frmStudentDashboard.cs",
+              "RelativeDocumentMoniker": "S6G2\\frmStudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\frmStudentDashboard.cs [Design]",
+              "RelativeToolTip": "S6G2\\frmStudentDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T13:03:16.837Z",
+              "WhenOpened": "2025-12-24T16:09:48.153Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\frmStudentDashboard.cs",
+              "RelativeDocumentMoniker": "S6G2\\frmStudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\frmStudentDashboard.cs",
+              "RelativeToolTip": "S6G2\\frmStudentDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:20:46.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs",
+              "RelativeDocumentMoniker": "S6G2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Form1.cs [Design]",
+              "RelativeToolTip": "S6G2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T17:14:50.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Program.cs",
+              "RelativeDocumentMoniker": "S6G2\\Program.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\Program.cs",
+              "RelativeToolTip": "S6G2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T17:15:41.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentSession.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\StudentSession.cs",
+              "RelativeDocumentMoniker": "S6G2\\StudentSession.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\HajarOODFinal\\Smart-Course-Advising-Information-System\\S6G2\\S6G2\\StudentSession.cs",
+              "RelativeToolTip": "S6G2\\StudentSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T17:02:59.121Z",
+              "EditorCaption": ""
             }
           ]
         }
