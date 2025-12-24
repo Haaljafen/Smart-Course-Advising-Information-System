@@ -1,6 +1,14 @@
 # Visual Studio
 .vs/
-obj/
+**/.vs/
+
+# Build outputs
 bin/
+obj/
+**/bin/
+**/obj/
+
+# User/caches
 *.suo
 *.cache
+*.dtbcache.json
