@@ -133,19 +133,27 @@
       <DependentUpon>Adviser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AdviserStudentsForm.resx">
-      <DependentUpon>AdviserStudentsForm.cs</DependentUpon>
+  	<DependentUpon>AdviserStudentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+
     <Compile Include="StudentSession.cs" />
+
     <EmbeddedResource Include="Admin\AdminDashboardForm.resx">
-      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+  	<DependentUpon>AdminDashboardForm.cs</DependentUpon>
     </EmbeddedResource>
+
     <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    	<DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+
     <EmbeddedResource Include="ProgressReportForm.resx">
-      <DependentUpon>ProgressReportForm.cs</DependentUpon>
-    <EmbeddedResource Include="frmStudentDashboard.resx">
-      <DependentUpon>frmStudentDashboard.cs</DependentUpon>
+    	<DependentUpon>ProgressReportForm.cs</DependentUpon>
     </EmbeddedResource>
+
+    <EmbeddedResource Include="frmStudentDashboard.resx">
+  	<DependentUpon>frmStudentDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
