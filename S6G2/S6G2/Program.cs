@@ -15,7 +15,7 @@ namespace S6G2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmStudentDashboard());
+            Application.Run(new Form1());
         }
     }
 }
