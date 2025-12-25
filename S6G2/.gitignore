@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# User/caches
+*.suo
+*.cache
+*.dtbcache.json
+DocumentLayout*.json
